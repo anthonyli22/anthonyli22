@@ -1,5 +1,5 @@
-### Hi there 👋
-### Helloooooo
+### Welcome to Anthony's Github page! 👋
+### Feel free to connect on LinkedIn and browse around
 <!--
 **anthonyli22/anthonyli22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
